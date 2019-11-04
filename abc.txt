@@ -1,0 +1,14 @@
+Comparison between New York and Toronto about which city has best Indian Restaurants 
+
+New York and Tornoto are two one of the biggest cities in North America. They are also one of the most famous cities in their respective countries. Hence, the influx of tourists 
+coming from around the world are going to be in huge numbers. Country of New York has vaious world famious landmarks which are one of the biggest tourist attractions of the world. 
+Statue of Liberty and Times Square are few of many places to visit in New York. Same is the case with Toronto. Being such big cities, these cities have a great connectivity via air 
+transportation, which makes them even easier for tourists to come for a holiday. Many factors make these two places a hotspot for tourists. Hence, tour planning for these two places
+is going to be very prominant. One of the biggest factors in tour planning is to arrange for local cusine food, native to the toursist. After all, many people don't like to try a 
+new cusine. One of the few countries with difficult and challenging food demands is India. India has one of the most diverse population in the world. People have different faith, 
+religion and so differnet food habits. Many Indians don't eat meat at all, some don't eat only specific type of meat and some don't consume onions. All of these depends on their
+religious beliefs. This poses a great challenge for tour makers since India is now rapidly growing economy, and the new middle class loves to spend their hloidays as abroad as tourists.
+Hence, India is a very lucrative market for tour companies to make tours from India to other countries.  
+
+Hence, my project focuses on seraching best Indian restaurants for Indian tourists, so that tour companies can draw comparison as to where it would be easy for them to plan a trip with
+Indian tourists without the issue of food. 
