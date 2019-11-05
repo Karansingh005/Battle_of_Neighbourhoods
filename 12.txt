@@ -1,0 +1,4 @@
+Data Description 
+
+I would be using FourSquare Api to retrieve data about restaurants having Indian cusines in the two cities.
+Since, foursqaure offers wide variety of data for such a problem, hence it would be enough.
